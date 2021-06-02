@@ -10,4 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orzcrz&layout=compact&theme=material-palenight" />
 </a>
 
-> Power By [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+--- 
+
+Power By [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
