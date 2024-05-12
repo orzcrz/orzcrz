@@ -1,4 +1,4 @@
-### Hi there, I'm [orzcrz](https://orzcrz.github.io/) 👋
+### Hi there, I'm [Runze Chang](https://orzcrz.github.io/) 👋
 
 <code><img src="https://raw.githubusercontent.com/orzcrz/orzcrz/main/assets/rap.png"></code>
 
